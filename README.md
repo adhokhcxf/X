@@ -1,0 +1,1 @@
+This work aims to practice imitating the website "starbukets"
